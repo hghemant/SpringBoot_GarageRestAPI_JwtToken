@@ -17,6 +17,6 @@ public class dateSort implements Comparator<CarDetails>
 	@Override
 	public int compare(CarDetails o1, CarDetails o2) {
 		// TODO Auto-generated method stub
-		 return o2.getDate_added().compareTo(o1.getDate_added());
+		 return o1.getDate_added().compareTo(o2.getDate_added());
 	}
 }
