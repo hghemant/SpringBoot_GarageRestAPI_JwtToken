@@ -1,7 +1,5 @@
 /*
- * Copyright (c) 2020 ING Group. All rights reserved.
- * 
- * This software is the confidential and proprietary information of ING Group ("Confidential Information").
+* Hemant Gupta 
  */
 package garageSecurityTest;
 
